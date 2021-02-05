@@ -9,14 +9,26 @@ body{
 header{
     background-color: #B90000;
 }
+nav{
+    height:15%;
+}
 .menu{
-    width:120%;
+    width:10%;
     border-radius: 50%;
     text-decoration: none;
     height:15%;
 }
-div{
+.imagemenu{
     display: inline-block;
+    float: left;
+}
+.titre{
+    width:80%;
+    height:fit-content;
+
+}
+h1{
+    text-align: center;
 }
 .titreMenu{
     text-align: center;
