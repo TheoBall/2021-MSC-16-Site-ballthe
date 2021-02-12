@@ -3,14 +3,26 @@
             GÉNÉRAL
 
 ********************************/
+@import url('https://fonts.googleapis.com/css2?family=Alegreya&family=Cinzel:wght@700&family=Crete+Round&family=Tajawal&display=swap');
 body{
     margin:0px;
+    background-color: #242424;
+    color: #ffffff;
+    font-family: Tajawal,sans-serif;
+    font-weight: 400;
 }
 header{
     background-color: #B90000;
 }
 nav{
-    height:15%;
+
+}
+div.images{
+    text-align: center;
+}
+p{
+    margin:5.3%;
+    font-size: 27px;
 }
 .menu{
     width:10%;
@@ -32,6 +44,7 @@ h1{
 }
 .titreMenu{
     text-align: center;
+    margin:0px;
 }
 /********************************
             GÉNÉRAL
